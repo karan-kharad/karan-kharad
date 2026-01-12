@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- I'm Karan Kharad
-- I’m interested in backend and UX
-- 🔭 I’m currently working on Backend web applications using Django
-- 📫 How to reach me: 
+-👋 I'm Karan Kharad
+-👀 I’m interested in backend and UX
+-🔭 I’m currently working on Backend web applications using Django
+-📫 How to reach me: 
 - Email karankharad94@gmail.com
-- Contact No : 8432365137
+- Instagram : @ftkarannnn
