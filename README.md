@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - 👀 I’m interested in backend and UX
 - 🔭 I’m currently working on Backend web applications using Django
 - 📫 How to reach me: 
-- Email karankharad94@gmail.com
+- Email : karankharad94@gmail.com
 - Instagram : @ftkarannnn
