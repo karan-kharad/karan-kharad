@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm karan, a passionate backend developer from India<br>🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun factzz
+I'm karan, a passionate backend developer from India<br>🔭 I’m currently working on Service-Management-System
+🌱 I’m currently learning Django
+💬 Ask me about Django
 
 
 ## 🌐 Socials:
