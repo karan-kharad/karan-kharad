@@ -1,6 +1,6 @@
 # 💫 About Me:
-I'm karan, a passionate backend developer from India<br>🔭 I’m currently working on Service-Management-System
-🌱 I’m currently learning Django
+I'm karan, a passionate backend developer from India<br>🔭 I’m currently working on Service-Management-System<br>
+🌱 I’m currently learning Django<br>
 💬 Ask me about Django
 
 
