@@ -10,13 +10,9 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=karan-kharad.karan-kharad&"  />
-</div>
+<br clear="both">
 
-###
-
-<h1 align="center">Hi there, I'm Karan Kharad 👋</h1>
+<h1 align="left">Hi there, I'm Karan Kharad 👋</h1>
 
 ###
 
@@ -33,6 +29,8 @@
 <h5 align="left">Languages: Python, PHP, JavaScript, C, SQL<br>Frontend: HTML, CSS, Bootstrap<br>Backend: Django, Flask, PHP<br>Database: MySQL, PostgreSQL<br>Tools & Platforms: Git, GitHub, Linux, VS Code<br>Interests: AI/ML, Computer Vision, Open Source, Web Development, Research</h5>
 
 ###
+
+<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -81,5 +79,16 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=karan-kharad&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/karan-kharad/karan-kharad/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/karan-kharad/karan-kharad/languages-output/languages.svg" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/karan-kharad/karan-kharad/snake-output/snake.svg" alt="Snake animation" />
 
 ###
