@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="244" viewBox="0 0 400 244">
+  <defs><pattern id="sl" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#000" opacity="0.25"/></pattern></defs>
+  <rect x="1" y="1" width="398" height="242" fill="#0d0221" stroke="#ff2a6d" stroke-width="2"/>
+  <text x="20" y="32" font-family="'Courier New', Courier, monospace" font-size="16" font-weight="700" fill="#f9f002">Top Languages</text>
+  <line x1="20" y1="42" x2="380" y2="42" stroke="#05d9e8" stroke-opacity="0.5"/>
+  <text x="22" y="76" font-family="'Courier New', Courier, monospace" font-size="13" fill="#e8e6ff">Python</text>
+  <text x="378" y="76" text-anchor="end" font-family="'Courier New', Courier, monospace" font-size="13" fill="#8b7ab8">92.3%</text>
+  <rect x="130" y="66" width="190" height="10" fill="#1a0b3b"/>
+  <rect x="130" y="66" width="175.4" height="10" fill="#05d9e8"/>
+  <text x="22" y="104" font-family="'Courier New', Courier, monospace" font-size="13" fill="#e8e6ff">JavaScript</text>
+  <text x="378" y="104" text-anchor="end" font-family="'Courier New', Courier, monospace" font-size="13" fill="#8b7ab8">2.3%</text>
+  <rect x="130" y="94" width="190" height="10" fill="#1a0b3b"/>
+  <rect x="130" y="94" width="4.4" height="10" fill="#ff2a6d"/>
+  <text x="22" y="132" font-family="'Courier New', Courier, monospace" font-size="13" fill="#e8e6ff">HTML</text>
+  <text x="378" y="132" text-anchor="end" font-family="'Courier New', Courier, monospace" font-size="13" fill="#8b7ab8">2.0%</text>
+  <rect x="130" y="122" width="190" height="10" fill="#1a0b3b"/>
+  <rect x="130" y="122" width="3.9" height="10" fill="#f9f002"/>
+  <text x="22" y="160" font-family="'Courier New', Courier, monospace" font-size="13" fill="#e8e6ff">CSS</text>
+  <text x="378" y="160" text-anchor="end" font-family="'Courier New', Courier, monospace" font-size="13" fill="#8b7ab8">1.2%</text>
+  <rect x="130" y="150" width="190" height="10" fill="#1a0b3b"/>
+  <rect x="130" y="150" width="2.2" height="10" fill="#39ff14"/>
+  <text x="22" y="188" font-family="'Courier New', Courier, monospace" font-size="13" fill="#e8e6ff">PHP</text>
+  <text x="378" y="188" text-anchor="end" font-family="'Courier New', Courier, monospace" font-size="13" fill="#8b7ab8">0.9%</text>
+  <rect x="130" y="178" width="190" height="10" fill="#1a0b3b"/>
+  <rect x="130" y="178" width="2.0" height="10" fill="#b388ff"/>
+  <text x="22" y="216" font-family="'Courier New', Courier, monospace" font-size="13" fill="#e8e6ff">Dart</text>
+  <text x="378" y="216" text-anchor="end" font-family="'Courier New', Courier, monospace" font-size="13" fill="#8b7ab8">0.5%</text>
+  <rect x="130" y="206" width="190" height="10" fill="#1a0b3b"/>
+  <rect x="130" y="206" width="2.0" height="10" fill="#ff9e3d"/>
+  <rect x="1" y="1" width="398" height="242" fill="url(#sl)"/>
+</svg>
