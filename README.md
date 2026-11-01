@@ -42,12 +42,12 @@
 <h2 align="center"><i>📊 Statistics</i></h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karan-kharad&bg_color=0D0221&color=05D9E8&line=FF2A6D&point=F9F002&area=true&area_color=FF2A6D&hide_border=false&radius=0" width="100%" alt="Contribution graph" />
+  <img src="https://raw.githubusercontent.com/karan-kharad/karan-kharad/main/assets/activity.svg" width="100%" alt="Contribution graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karan-kharad&show_icons=true&hide_border=false&border_radius=0&bg_color=0D0221&title_color=F9F002&text_color=05D9E8&icon_color=FF2A6D&border_color=FF2A6D" height="170" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karan-kharad&layout=compact&hide_border=false&border_radius=0&bg_color=0D0221&title_color=F9F002&text_color=05D9E8&border_color=FF2A6D" height="170" alt="Top languages" />
+  <img src="https://raw.githubusercontent.com/karan-kharad/karan-kharad/main/assets/stats.svg" width="48%" alt="GitHub stats" />
+  <img src="https://raw.githubusercontent.com/karan-kharad/karan-kharad/main/assets/languages.svg" width="48%" alt="Top languages" />
 </p>
 
 <img src="https://raw.githubusercontent.com/karan-kharad/karan-kharad/snake-output/snake.svg" width="100%" alt="Contribution snake animation" />
