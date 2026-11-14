@@ -57,7 +57,7 @@
 <img align="left" width="210" src="https://raw.githubusercontent.com/karan-kharad/karan-kharad/main/assets/avatar.svg" alt="Pixel art avatar" />
 
 <p align="center">
-Hello! My name is <b>Karan Kharad</b>, and I am a Computer Science student pursuing a <b>B.Voc</b> degree. I am passionate about software development, artificial intelligence, open source, and emerging technologies. Currently, I am improving my skills in <b>Python, Django, Flask, PHP, JavaScript, and SQL</b>, with a focus on backend engineering, AI systems, and open source contribution, and I am working toward building robust, impactful applications.
+Hello! My name is <b>Karan Kharad</b>, and I am a Computer Science student completed a <b>B.Voc</b> degree. I am passionate about software development, artificial intelligence, open source, and emerging technologies. Currently, I am improving my skills in <b>Python, Django, Flask, PHP, JavaScript, and SQL</b>, with a focus on backend engineering, AI systems, and open source contribution, and I am working toward building robust, impactful applications.
 </p>
 
 <br clear="both">
