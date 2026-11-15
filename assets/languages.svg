@@ -4,9 +4,9 @@
   <text x="20" y="32" font-family="'Courier New', Courier, monospace" font-size="16" font-weight="700" fill="#f9f002">Top Languages</text>
   <line x1="20" y1="42" x2="380" y2="42" stroke="#05d9e8" stroke-opacity="0.5"/>
   <text x="22" y="76" font-family="'Courier New', Courier, monospace" font-size="13" fill="#e8e6ff">Python</text>
-  <text x="378" y="76" text-anchor="end" font-family="'Courier New', Courier, monospace" font-size="13" fill="#8b7ab8">92.3%</text>
+  <text x="378" y="76" text-anchor="end" font-family="'Courier New', Courier, monospace" font-size="13" fill="#8b7ab8">92.5%</text>
   <rect x="130" y="66" width="190" height="10" fill="#1a0b3b"/>
-  <rect x="130" y="66" width="175.4" height="10" fill="#05d9e8"/>
+  <rect x="130" y="66" width="175.8" height="10" fill="#05d9e8"/>
   <text x="22" y="104" font-family="'Courier New', Courier, monospace" font-size="13" fill="#e8e6ff">JavaScript</text>
   <text x="378" y="104" text-anchor="end" font-family="'Courier New', Courier, monospace" font-size="13" fill="#8b7ab8">2.3%</text>
   <rect x="130" y="94" width="190" height="10" fill="#1a0b3b"/>
@@ -20,7 +20,7 @@
   <rect x="130" y="150" width="190" height="10" fill="#1a0b3b"/>
   <rect x="130" y="150" width="2.2" height="10" fill="#39ff14"/>
   <text x="22" y="188" font-family="'Courier New', Courier, monospace" font-size="13" fill="#e8e6ff">PHP</text>
-  <text x="378" y="188" text-anchor="end" font-family="'Courier New', Courier, monospace" font-size="13" fill="#8b7ab8">0.9%</text>
+  <text x="378" y="188" text-anchor="end" font-family="'Courier New', Courier, monospace" font-size="13" fill="#8b7ab8">0.7%</text>
   <rect x="130" y="178" width="190" height="10" fill="#1a0b3b"/>
   <rect x="130" y="178" width="2.0" height="10" fill="#b388ff"/>
   <text x="22" y="216" font-family="'Courier New', Courier, monospace" font-size="13" fill="#e8e6ff">Dart</text>
